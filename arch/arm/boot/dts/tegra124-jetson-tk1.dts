@@ -1951,3 +1951,7 @@
 		};
 	};
 };
+
+&cpu0 {
+	vdd-cpu-supply = <&vdd_cpu>;
+};
