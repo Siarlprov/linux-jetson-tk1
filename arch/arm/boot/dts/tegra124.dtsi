@@ -907,7 +907,7 @@
 		phy-names = "sata-phy";
 
 		status = "disabled";
-	}
+	};
 
 	thermal-zones {
 		cpu {
